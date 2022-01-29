@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\titov\\.nuget\\packages\\": {},
+    "C:\\Users\\student\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\titov\\Documents\\GitHub\\RubicX-PS223020-Server\\RubicX_PS223020\\RubicX_PS223020\\RubicX_PS223020.csproj",
+      "projectUniqueName": "C:\\Users\\student\\Documents\\GitHub\\RubicX-PS223020-Server\\RubicX_PS223020\\RubicX_PS223020\\RubicX_PS223020.csproj",
       "projectName": "RubicX_PS223020",
-      "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\RubicX-PS223020-Server\\RubicX_PS223020\\RubicX_PS223020\\RubicX_PS223020.csproj",
-      "packagesPath": "C:\\Users\\titov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\titov\\Documents\\GitHub\\RubicX-PS223020-Server\\RubicX_PS223020\\RubicX_PS223020\\obj\\",
+      "projectPath": "C:\\Users\\student\\Documents\\GitHub\\RubicX-PS223020-Server\\RubicX_PS223020\\RubicX_PS223020\\RubicX_PS223020.csproj",
+      "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\student\\Documents\\GitHub\\RubicX-PS223020-Server\\RubicX_PS223020\\RubicX_PS223020\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\titov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

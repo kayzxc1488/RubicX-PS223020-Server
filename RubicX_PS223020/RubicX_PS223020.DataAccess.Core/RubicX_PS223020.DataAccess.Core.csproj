@@ -117,6 +117,7 @@
     <Compile Include="Interfaces\DbContext\IRubicContext.cs" />
     <Compile Include="Models\UserRoleRto.cs" />
     <Compile Include="Models\UserRto.cs" />
+    <Compile Include="test\Car.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
